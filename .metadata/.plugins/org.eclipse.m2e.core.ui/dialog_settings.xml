@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\ADITYA\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\hiber\src\main\java\com\example\entity\department.java"/>
+			<item value="C:\Users\ADITYA\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\HibernateCrud\src\main\java\com\klu\MainApp.java"/>
+			<item value="C:\Users\ADITYA\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\jdb\src\main\java\com\jdb\jdb.java"/>
+			<item value="C:\Users\ADITYA\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\JDBCcrud2\src\main\java\com\klu\JDBCcrud2.java"/>
+			<item value="C:\Users\ADITYA\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\jdbc-create\src\main\java\com\fsads3\JDBCcreate.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.klu"/>
+			<item value="HibernateEmpDeptApp"/>
+			<item value="com.fsads3"/>
+			<item value="com.adi"/>
+			<item value="com.k"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="hiiberstu"/>
+			<item value="hiber"/>
+			<item value="HibernateEmpDeptApp"/>
+			<item value="com.fsads3"/>
+			<item value="hibernate_crud_example"/>
+			<item value="HibernateCrud"/>
+			<item value="hybernet-create"/>
+			<item value="jdb"/>
+			<item value="jd"/>
+			<item value="JDBCcrud2"/>
+			<item value="JDBCcrud"/>
+			<item value="jdbc-create"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
