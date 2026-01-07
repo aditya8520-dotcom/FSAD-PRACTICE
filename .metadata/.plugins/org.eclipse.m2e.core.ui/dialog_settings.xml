@@ -57,6 +57,9 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="hibernate"/>
+			<item value="hibernatec"/>
+			<item value="hibernarecrud"/>
 			<item value="hiiberstu"/>
 			<item value="hiber"/>
 			<item value="HibernateEmpDeptApp"/>
